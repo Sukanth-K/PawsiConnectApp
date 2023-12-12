@@ -8,5 +8,9 @@ A no-cost solution for lost pets or belongings! Assign QR codes, let volunteers 
 
 Be a hero in reuniting owners with their precious possessions or pets!
 
+Sample:
+Pet1:
 ![WhatsApp Image 2023-12-13 at 12 32 25 AM](https://github.com/Sukanth-K/PawsiConnectApp/assets/100690281/7fd7be78-5add-4c3e-87e8-a67a65f1629c)
+
+Pet2:
 ![WhatsApp Image 2023-12-13 at 12 32 25 AM (1)](https://github.com/Sukanth-K/PawsiConnectApp/assets/100690281/834dbdf0-f9a1-44fa-b972-a607e5085386)
