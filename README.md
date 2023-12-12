@@ -1,9 +1,11 @@
-# Starter React Project for the Supabase Course
+PawsiConnect: A no-cost solution for lost pets or belongings! Assign QR codes, let volunteers scan for real-time updates, and ensure a quick reunion with owners. Simple, secure, and absolutely free for pet lovers.
 
-**How to run the starter project:**
+Volunteer Instructions:
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
+1. Scan QR Code: Encounter a lost object or pet? Scan the QR code using your smartphone or QR scanner app.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Update Location: Your scan pinpoints the lost item's current location, owner can now know the last scanned location.
+
+3. Contact Owner: If contact details are available, reach out directly. 
+
+Be a hero in reuniting owners with their precious possessions or pets!
